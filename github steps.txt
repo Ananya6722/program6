@@ -1,0 +1,12 @@
+> new repo on dashboard
+> give a name to repo - clone2
+> desc - program4 demo
+> click create repo (corner) -> page with name of repo, public status
+> go to sidebar and open repository from "top repositories"
+> upload a txt file from system to repo -> click on commit changes
+> README page will open and the file added will be shown
+> click on code -> drop down -> copy url
+> go to gitbash
+> git init -> git clone (paste url) 
+> ls
+> 
